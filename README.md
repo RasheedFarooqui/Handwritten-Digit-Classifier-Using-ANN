@@ -36,3 +36,9 @@ To run this project, you will need the following Python libraries:
 - `seaborn`
 - `tensorflow`
 
+## Results
+
+After training the model for 10 epochs with a validation split of 20%, the model achieved an accuracy of **97%** on the test dataset. The performance of the model is visualized using a confusion matrix, which helps identify the number of correct and incorrect predictions for each digit.
+
+
+
