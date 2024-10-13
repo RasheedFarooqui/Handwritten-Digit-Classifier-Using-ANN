@@ -9,11 +9,7 @@ This project implements a neural network model using TensorFlow and Keras to cla
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Model Architecture](#model-architecture)
 - [Results](#results)
-- [Contributions](#contributions)
-- [License](#license)
 
 ## Overview
 
