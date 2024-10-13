@@ -1,6 +1,5 @@
 # Handwritten-Digit-Classifier-Using-ANN
 
-# MNIST Digit Classification
 
 This project implements a neural network model using TensorFlow and Keras to classify handwritten digits from the MNIST dataset. The model is trained to predict the digit represented in a given image based on the pixel values.
 
